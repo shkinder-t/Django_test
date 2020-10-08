@@ -8,7 +8,7 @@ from django.shortcuts import render
 from django.urls import reverse, reverse_lazy
 from django.views.generic import CreateView
 
-from tania_proect.member.models import NewCreationForm
+from member.models import NewCreationForm
 
 
 class CreateUserView(CreateView):
