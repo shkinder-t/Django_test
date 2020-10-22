@@ -106,6 +106,7 @@ media/
 *.pyc
 *.db
 *.pid
+tania_proect/develop_app.py
 
 # Ignore Django Migrations in Development if you are working on team
 
